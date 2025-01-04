@@ -1,1 +1,3 @@
-# Batter_Report_Cards
+# Batter Report Cards
+
+Repo containing code for building hitter report cards.
